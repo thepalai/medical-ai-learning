@@ -1,7 +1,7 @@
 import os
 import tensorflow as tf
 
-DATA_DIR = 'horse-or-human'
+DATA_DIR = 'horse-or-human' # https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset
 #____________3 Ways to split dataset to training and validation_________________#
 
 #________________________First Manually____________________________#
